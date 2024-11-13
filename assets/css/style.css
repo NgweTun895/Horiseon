@@ -48,6 +48,9 @@ a {
     color: rgb(128, 128, 65);
     text-decoration: none;
 }
+p{
+    font-size: 16;
+}
 /* header seletor end */
 
 .hero {
@@ -64,7 +67,7 @@ a {
 }
 
 .float-right {
-    float: left;
+    float: right;
     margin-left: 25px;
 }
 .search-engine-optimization {
@@ -105,6 +108,7 @@ a {
 }
 .search-engine-optimization img {
     max-height: 200px;
+   
 }
 .online-reputation-management img {
     max-height: 200px;
@@ -113,11 +117,13 @@ a {
     max-height: 200px;
 }
 
-.content {
-    width: 75&;
-    display: inline-block;
-    margin: left 20px;
 
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    
 }
 
 .benefits {
@@ -168,6 +174,9 @@ a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+section {
+    /* height: auto; */
 }
 
 /* footer */
