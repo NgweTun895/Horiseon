@@ -45,7 +45,7 @@ body {
 }
 
 a {
-    color: rgb(128, 128, 65);
+    color: yellow;
     text-decoration: none;
 }
 p{
@@ -61,6 +61,8 @@ p{
     background-size: cover;
     background-position: center;
 }
+
+/*  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -116,9 +118,6 @@ p{
 .social-media-marketing img {
     max-height: 200px;
 }
-
-
-
 .content {
     width: 75%;
     display: inline-block;
@@ -126,6 +125,7 @@ p{
     
 }
 
+/* benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
